@@ -6,4 +6,4 @@ Exercise to explore the valgrind tool to improve code quality during development
 
 ## Instructions
 
-Switch to the valgrind_exercise branch to view all the results.  
+Switch to the ```valgrind_exercise``` branch to view all the results.  
